@@ -1,0 +1,11 @@
+@import 'node_modules/tailwindcss/base.css';
+@import 'node_modules/tailwindcss/components.css';
+@import 'node_modules/tailwindcss/utilities.css';
+
+/* Add any custom styles for your app here */
+
+/* Center the header links horizontally */
+header {
+    display: flex;
+    justify-content: center;
+}

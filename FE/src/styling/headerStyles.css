@@ -1,0 +1,12 @@
+@import "node_modules/tailwindcss/base.css";
+@import "node_modules/tailwindcss/components.css";
+@import "node_modules/tailwindcss/utilities.css";
+
+.bg-custom-gray {
+    background-color: #1F2937;
+}
+
+#navbar-toggle-button span {
+    /* This will style the lines in the button */
+    background-color: white;
+}
